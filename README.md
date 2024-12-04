@@ -38,6 +38,6 @@ Then, open start.bat file in root directory.<br>
 In case of any comments or advice, You can e-mail me or use Issues :)
 
 ## 🧙‍♂️ Author
-- GitHub - [Roman Fedorive](https://github.com/Lishtcomet53)
+- GitHub - [Roman Fedorive](https://github.com/Lightcomet53)
 - LinkedIn - [Roman Fedorive](https://www.linkedin.com/in/roman-fedoriv-396710335/)
 - Porftolio - 
