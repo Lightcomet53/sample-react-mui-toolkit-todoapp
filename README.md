@@ -19,14 +19,14 @@ A simple, popular, modulized CRUD web app. User can add task to list, toggle com
 - localStorage
 
 ## 💻 Demo
-Click the link and check the app: [Link](https://ms-todo-app-react.netlify.app/)
+Click the link and check the app: [Link](https://react-mui-toolkit-todoapp/)
 
 ### Screenshot
 
 ![](./src/assets/screenshot.JPG)
 
 ## 💾 Installation
-git clone https://github.com/marcinsuski/toolkit-mui-typescript-react-express-mongoose-todo-app <br>
+git clone https://github.com/Lightcomet53/sample-react-mui-toolkit-todoapp <br>
 npm install<br>
 
 
