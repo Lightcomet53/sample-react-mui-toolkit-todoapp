@@ -19,7 +19,7 @@ A simple, popular, modulized CRUD web app. User can add task to list, toggle com
 - localStorage
 
 ## 💻 Demo
-Click the link and check the app: [Link](https://react-mui-toolkit-todoapp/)
+Click the link and check the app: [Link](https://react-mui-toolkit-todoapp/.vercel.app/)
 
 ### Screenshot
 
